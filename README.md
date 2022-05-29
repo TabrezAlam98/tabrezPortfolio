@@ -16,16 +16,19 @@ Portfolio :https://tabrezportfolio.vercel.app/
 
 ## 
 #### Home Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438524-23bdafd5-0f50-4b6b-a46c-0b101bcdcb30.png"/>
+<img width="600px" src="https://github.com/TabrezAlam98/tabrezPortfolio/blob/main/public/images/homePage.png?raw=true"/>
 
 #### Projects Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438532-38cbb1f6-8a59-4af0-8ea7-6b875dfaa654.png"/>
+<img width="600px" src="https://github.com/TabrezAlam98/tabrezPortfolio/blob/main/public/images/project.png?raw=true"/>
 
 #### About Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438534-7d03744b-311f-4aad-aa23-3c607192529a.png"/>
+<img width="600px" src="https://github.com/TabrezAlam98/tabrezPortfolio/blob/main/public/images/about.png?raw=true"/>
 
 #### Skills Page
-<img width="600px" src="https://user-images.githubusercontent.com/86405837/139438537-4e117232-1ba1-49b4-bb7b-4dfa394f734a.png"/>
+<img width="600px" src="https://github.com/TabrezAlam98/tabrezPortfolio/blob/main/public/images/skill.png?raw=true"/>
+
+#### Contact Page
+<img width="600px" src="https://github.com/TabrezAlam98/tabrezPortfolio/blob/main/public/images/contact.png?raw=true"/>
 
 
 
