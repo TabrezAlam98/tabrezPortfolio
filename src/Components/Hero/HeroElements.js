@@ -9,7 +9,7 @@ export const HeroContainer = styled.div`
   margin-left: auto;
   display: flex;
   flex-direction: column;
-  padding-top: 80px;
+  padding-top: 120px;
 
   @media (min-width: 576px) {
     max-width: 540px;
@@ -93,6 +93,12 @@ export const HeroRight = styled.div`
   flex: 1;
   justify-content: center;
   display: flex;
+  img{
+  transition:tramsform 2s;
+  cursor:zoom-in;
+  tramsform:scale(1.1);
+  }
+ 
 `;
 
 

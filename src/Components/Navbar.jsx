@@ -15,15 +15,8 @@ export const Navbar = () => {
         <Link to="/" style={{fontSize:'50px'}}>TA</Link>
       </div>
       <div>
-        <div
-          onClick={() => {
-            setIsPage("project");
-          }}
-          style={isPage === "project" ? { color: "black" } : null}
-        >
-          <Link to="/projects">Projects</Link>
-        </div>
-        <div
+
+      <div
           onClick={() => {
             setIsPage("about");
           }}
@@ -31,6 +24,7 @@ export const Navbar = () => {
         >
           <Link to="/about-me">About</Link>
         </div>
+
         <div
           onClick={() => {
             setIsPage("skill");
@@ -39,6 +33,16 @@ export const Navbar = () => {
         >
           <Link to="/skills">Skills</Link>
         </div>
+        <div
+          onClick={() => {
+            setIsPage("project");
+          }}
+          style={isPage === "project" ? { color: "black" } : null}
+        >
+          <Link to="/projects">Projects</Link>
+        </div>
+        
+        
         <div onClick={()=>{
           setIsPage("Contact")
         }}

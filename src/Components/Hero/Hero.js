@@ -4,6 +4,7 @@ import SocialIcon from "../SocialIcon/SocialIcon";
 import { Link } from "react-router-dom";
 
 
+
 import {
   HeroContainer,
   HeroWrapper,
@@ -12,6 +13,7 @@ import {
 } from "./HeroElements";
 function Hero() {
   return (
+    <>
     <div className="heroMain">
       <HeroContainer>
         <HeroWrapper>
@@ -51,9 +53,12 @@ function Hero() {
             />
           </HeroRight>
         </HeroWrapper>
+     
       </HeroContainer>
+      
     </div>
-    
+
+    </>
   );
 }
 

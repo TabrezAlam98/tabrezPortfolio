@@ -10,18 +10,27 @@ export function RouteMain() {
   return (
     <div>
       <Switch>
-        <Route path="/" exact>
+      <Route path="/" exact>
           <Hero />
-        </Route>
-        <Route path="/projects">
+          <About />
           <Projects />
+          <Skills />
+          <Contact />
+        </Route>
+      <Route path="/about-me">
+          <About />
+         
+        </Route>
+       
+        <Route path="/projects">
+        <About />
+          
+         
         </Route>
         <Route path="/skills">
           <Skills />
         </Route>
-        <Route path="/about-me">
-          <About />
-        </Route>
+        
         <Route path="/contact">
           <Contact />
         </Route>
