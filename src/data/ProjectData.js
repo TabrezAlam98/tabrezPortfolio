@@ -4,7 +4,8 @@ export const ProjectList = [
     img: "/images/fitmeals.png",
     title: "Fitmeals Clone",
     description:
-      "A web application for delivery health food .",
+    "A web application especially created for Food Delivery , Healthy Food,Fitness Diet, Fitness meal.",
+    
     tech_stack: " CSS, Javascript, React, Redux",
     github_url: "https://github.com/Arfeen98/FitMealsCLone",
     demo_url: "https://flourishing-brigadeiros-066ec5.netlify.app/",
@@ -13,7 +14,8 @@ export const ProjectList = [
     img: "/images/shoppers stop.png",
     title: "Shoppers Stop Clone",
     description:
-      "A web application for selling Cloth, Watch, Shoes, Bags, Jewellary.",
+      "A Shoppers Stop web application created for selling clothes, handbags , shoes,jewellery ,  cosmetics , health and beauty products",
+      
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/mshakir082/Shoppers_Stop-Clone",
     demo_url:
