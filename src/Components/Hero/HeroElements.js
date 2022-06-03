@@ -93,10 +93,10 @@ export const HeroRight = styled.div`
   flex: 1;
   justify-content: center;
   display: flex;
-  img{
-  transition:tramsform 2s;
+  img:hover{
+  transition:transform 2s;
   cursor:zoom-in;
-  tramsform:scale(1.1);
+  transform:scale(1.1);
   }
  
 `;

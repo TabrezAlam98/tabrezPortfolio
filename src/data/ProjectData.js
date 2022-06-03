@@ -14,7 +14,7 @@ export const ProjectList = [
     img: "/images/shoppers stop.png",
     title: "Shoppers Stop Clone",
     description:
-      "A Shoppers Stop web application created for selling clothes, handbags , shoes,jewellery ,  cosmetics , health and beauty products",
+      "A Shoppers Stop web application created for buying clothes, handbags , shoes,jewellery ,  cosmetics , health and beauty products",
       
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/mshakir082/Shoppers_Stop-Clone",

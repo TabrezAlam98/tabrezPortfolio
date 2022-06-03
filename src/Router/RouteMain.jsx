@@ -17,15 +17,15 @@ export function RouteMain() {
           <Skills />
           <Contact />
         </Route>
-      <Route path="/about-me">
-          <About />
+      <Route path="/about-me" >
+      <About />
+        
          
         </Route>
        
-        <Route path="/projects">
-        <About />
-          
-         
+        <Route path="/projects" >
+
+         <Projects/>
         </Route>
         <Route path="/skills">
           <Skills />

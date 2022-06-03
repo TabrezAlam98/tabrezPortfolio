@@ -52,7 +52,7 @@ export const Navbar = () => {
         </div>
         <div>
           {/* <a
-            href="https://albartjose.hashnode.dev/"
+            href="https://tabrez.hashnode.dev/"
             rel="noreferrer"
             target="_blank"
           >
